@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with This Project. 
 
+This is a hackathon project to attempt to find people who play the same games. It's a solo project and at the moment used to learn how to use Microsoft services such as Microsoft Graph
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
